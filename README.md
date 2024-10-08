@@ -45,27 +45,6 @@ Este projeto tem como objetivo analisar e visualizar os fatores que influenciam 
 
 ---
 
-## 🚀 **Como Executar o Projeto**
-
-### **Pré-requisitos**:
-- **Python 3.8+** instalado
-- As seguintes bibliotecas Python instaladas:
-```bash
-pip install pandas matplotlib plotly
-```
-
-### **Passos para Execução**:
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/0xlari/Analise-de-credito.git
-   ```
-2. Execute o script de análise:
-   ```bash
-   python analise_limite_credito.py
-   ```
-
----
-
 ## 🧠 **Conclusões do Projeto**
 
 - **Inadimplência** reduz consideravelmente o limite de crédito.
