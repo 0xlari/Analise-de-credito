@@ -58,11 +58,6 @@ Este projeto tem como objetivo analisar e visualizar os fatores que influenciam 
 Contribuições são bem-vindas! Se você tiver ideias para melhorias, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
 
 ---
-
-## 📜 **Licença**
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
 <p align="center">
   Feito por Larissa Barros (https://github.com/0xlari)
 </p>
